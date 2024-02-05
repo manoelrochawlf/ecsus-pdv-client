@@ -1,0 +1,25 @@
+{
+  "name": "ecsus-pdv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "start:dev": "npx electronmon --trace-warnings ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "electron",
+    "react",
+    "typescript"
+  ],
+  "author": "Manoel Rocha da Silva Junior",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^28.2.1"
+  }
+}
