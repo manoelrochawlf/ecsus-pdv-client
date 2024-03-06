@@ -20,6 +20,7 @@
   "author": "Manoel Rocha da Silva Junior",
   "license": "ISC",
   "dependencies": {
-    "electron": "^28.2.1"
+    "electron": "^28.2.1",
+    "react-router-dom": "^6.22.0"
   }
 }
