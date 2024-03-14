@@ -18,6 +18,7 @@ const Home = () => {
         <Container>
           <LeadImage>
             <EcsusLogo />
+            <h1>dsfvsdfsdcvsd</h1>
           </LeadImage>
         </Container>
      );

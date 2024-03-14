@@ -13,7 +13,7 @@ export const Container = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0rem 2rem;
+    padding: 0rem 8rem;
     height: 100vh;
 `
 export const LeadImage = styled.div`

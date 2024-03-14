@@ -7,7 +7,6 @@ export const Container = styled.div`
     align-items: center;
     height: 100vh;
     h2{
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       margin-bottom: 1.5rem;
       color: #6B7280;
     }
